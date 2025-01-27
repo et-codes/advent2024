@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println(day1())
+	fmt.Println(day2())
 }
